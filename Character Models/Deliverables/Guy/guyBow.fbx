@@ -8,11 +8,11 @@ FBXHeaderExtension:  {
 		Version: 1000
 		Year: 2017
 		Month: 11
-		Day: 2
-		Hour: 16
-		Minute: 10
-		Second: 23
-		Millisecond: 887
+		Day: 6
+		Hour: 13
+		Minute: 46
+		Second: 46
+		Millisecond: 762
 	}
 	Creator: "FBX SDK/FBX Plugins version 2018.1.1"
 	SceneInfo: "SceneInfo::GlobalInfo", "UserData" {
@@ -28,21 +28,21 @@ FBXHeaderExtension:  {
 			Comment: ""
 		}
 		Properties70:  {
-			P: "DocumentUrl", "KString", "Url", "", "C:\Users\ckneela2\Desktop\Game-Monster\Art Assets\Character Models\Deliverables\Guy\guyBow.fbx"
-			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Users\ckneela2\Desktop\Game-Monster\Art Assets\Character Models\Deliverables\Guy\guyBow.fbx"
+			P: "DocumentUrl", "KString", "Url", "", "C:\Users\ckneela2\Desktop\Art-Assets-for-Game\Character Models\Deliverables\Guy\guyBow.fbx"
+			P: "SrcDocumentUrl", "KString", "Url", "", "C:\Users\ckneela2\Desktop\Art-Assets-for-Game\Character Models\Deliverables\Guy\guyBow.fbx"
 			P: "Original", "Compound", "", ""
 			P: "Original|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "Original|ApplicationName", "KString", "", "", "Maya"
 			P: "Original|ApplicationVersion", "KString", "", "", "201800"
-			P: "Original|DateTime_GMT", "DateTime", "", "", "02/11/2017 20:10:23.870"
-			P: "Original|FileName", "KString", "", "", "C:\Users\ckneela2\Desktop\Game-Monster\Art Assets\Character Models\Deliverables\Guy\guyBow.fbx"
+			P: "Original|DateTime_GMT", "DateTime", "", "", "06/11/2017 18:46:46.759"
+			P: "Original|FileName", "KString", "", "", "C:\Users\ckneela2\Desktop\Art-Assets-for-Game\Character Models\Deliverables\Guy\guyBow.fbx"
 			P: "LastSaved", "Compound", "", ""
 			P: "LastSaved|ApplicationVendor", "KString", "", "", "Autodesk"
 			P: "LastSaved|ApplicationName", "KString", "", "", "Maya"
 			P: "LastSaved|ApplicationVersion", "KString", "", "", "201800"
-			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "02/11/2017 20:10:23.870"
-			P: "Original|ApplicationActiveProject", "KString", "", "", "C:\Users\ckneela2\Desktop\Game-Monster\Art Assets\Character Models\Deliverables\Guy"
-			P: "Original|ApplicationNativeFile", "KString", "", "", "C:\Users\ckneela2\Desktop\Game-Monster\Art Assets\Character Models\Base Meshes\MB\guyBow.mb"
+			P: "LastSaved|DateTime_GMT", "DateTime", "", "", "06/11/2017 18:46:46.759"
+			P: "Original|ApplicationActiveProject", "KString", "", "", "C:\Users\ckneela2\Desktop\Art-Assets-for-Game\Character Models\Deliverables\Guy"
+			P: "Original|ApplicationNativeFile", "KString", "", "", "C:\Users\ckneela2\Desktop\Art-Assets-for-Game\Character Models\Base Meshes\MB\guyBow.mb"
 		}
 	}
 }
@@ -77,7 +77,7 @@ GlobalSettings:  {
 
 Documents:  {
 	Count: 1
-	Document: 2747203616, "", "Scene" {
+	Document: 1300524864, "", "Scene" {
 		Properties70:  {
 			P: "SourceObject", "object", "", ""
 			P: "ActiveAnimStackName", "KString", "", "", "Take 001"
@@ -315,115 +315,115 @@ Definitions:  {
 ;------------------------------------------------------------------
 
 Objects:  {
-	NodeAttribute: 2251067680, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295009488, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2251074896, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295015648, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2251074544, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295010720, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741730032, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295014768, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741718944, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295011424, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741710848, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295010896, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741706976, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295010544, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741718768, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295010368, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741728448, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295011248, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741722640, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295011072, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741719824, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295010192, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741729504, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295010016, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741729680, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295008784, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741706624, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295008608, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741707504, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295009136, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741713664, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295008256, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741719648, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295008080, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	NodeAttribute: 2741727568, "NodeAttribute::", "Null" {
+	NodeAttribute: 1295008432, "NodeAttribute::", "Null" {
 		Properties70:  {
 			P: "Look", "enum", "", "",0
 		}
 		TypeFlags: "Null"
 	}
-	Geometry: 2247888768, "Geometry::", "Mesh" {
+	Geometry: 973320768, "Geometry::", "Mesh" {
 		Vertices: *1716 {
 			a: 1.50790357589722,-16.8530654907227,4.78354835510254,-5.73135039427797e-10,-16.8530654907227,5.50552177429199,-1.50790357589722,-16.8530654907227,4.78354835510254,1.50790357589722,-16.8530654907227,0.644365310668945,5.73137093340392e-10,-16.8530654907227,-0.0531673431396484,-1.50790357589722,-16.8530654907227,0.64436149597168,2.12733125686646,-16.8530654907227,2.38274002075195,-2.12733125686646,-16.8530654907227,2.38274002075195,1.43961322307587,-18.684720993042,9.10142517089844,-0.0916756689548492,-18.3812866210938,10.0366477966309,-1.57533645629883,-18.692512512207,9.02994537353516,1.57614266872406,-20.4467086791992,3.53473854064941,0.0916756764054298,-20.7475280761719,2.5609073638916,-1.43880689144135,-20.4544944763184,3.46325874328613,2.13805437088013,-19.7051086425781,5.8873176574707,-2.11539816856384,-19.7160949707031,5.78647613525391,1.43961322307587,-20.9616832733154,9.34475326538086,-0.0916756689548492,-20.6582450866699,10.0202369689941,-1.57533645629883,-20.9694728851318,9.29312705993652,1.57614266872406,-22.7236671447754,5.32410430908203,0.0916756764054298,-23.0244903564453,4.62073707580566,-1.43880689144135,-22.7314567565918,5.27247619628906,2.13805437088013,-21.9820671081543,7.02330207824707,-2.11539816856384,-21.9930572509766,6.95046806335449,1.20418834686279,-24.7442455291748,9.01109313964844,-0.0746974870562553,-24.7442455291748,9.57523536682129,-1.31380581855774,-24.7442455291748,8.96797370910645,1.31821358203888,-24.7442684173584,5.65317153930664,0.0784319713711739,-24.7442684173584,5.06573867797852,-1.19978046417236,-24.7442684173584,5.61005020141602,1.78750514984131,-24.7442588806152,7.07228851318359,-1.76484858989716,-24.7442588806152,7.0114574432373,1.27239596843719,-40.0767250061035,1.87405586242676,-0.0796164199709892,-39.8999290466309,2.44364738464355,-1.38957667350769,-40.0902328491211,1.83052253723145,1.39294123649597,-41.129093170166,-1.51629829406738,0.0822689458727837,-41.3131904602051,-2.10940742492676,-1.2690315246582,-41.1426048278809,-1.55983352661133,1.88906681537628,-40.6843414306641,-0.0834751129150391,
 -1.86641049385071,-40.7034034729004,-0.144893646240234,1.43961322307587,-47.6191558837891,3.54320907592773,-0.0916756689548492,-47.6191558837891,4.21869277954102,-1.57533645629883,-47.6191558837891,3.4915828704834,1.57614266872406,-47.6191787719727,-0.477436065673828,0.0916756764054298,-47.6191864013672,-1.18080711364746,-1.43880689144135,-47.6191787719727,-0.52906608581543,2.13805437088013,-47.6191711425781,1.22175979614258,-2.11539816856384,-47.6191711425781,1.14892196655273,1.42061674594879,-55.306095123291,1.89620971679688,-0.0903056636452675,-55.5201110839844,2.52741432189941,-1.55423355102539,-55.2897300720215,1.84796524047852,1.55533027648926,-54.0322189331055,-1.86087989807129,0.090607076883316,-53.8093719482422,-2.51814270019531,-1.41951966285706,-54.0158615112305,-1.90912437438965,2.10976886749268,-54.5705833435059,-0.273067474365234,-2.08711194992065,-54.5475006103516,-0.341127395629883,0.928252220153809,-32.9663429260254,0.0639710426330566,-0.0547977760434151,-33.0634269714355,0.486608982086182,-1.00727164745331,-32.9589233398438,0.031670093536377,-1.35397791862488,-32.6222267150879,-1.43408536911011,-0.919622957706451,-32.3810615539551,-2.48397207260132,0.062909297645092,-32.2873878479004,-3.83577013015747,1.01590085029602,-32.3884811401367,-2.45166921615601,1.37663435935974,-32.6326942443848,-1.38851308822632,1.23924100399017,-59.8839721679688,-3.61706352233887,-0.0772254168987274,-60.2719535827637,-3.18497085571289,-1.3527455329895,-59.8543128967285,-3.65009117126465,1.35661685466766,-57.5746078491211,-6.18901252746582,0.0804038122296333,-57.1706047058105,-6.63894653320313,-1.23536944389343,-57.5449523925781,-6.22203826904297,1.83969879150391,-58.5505828857422,-5.1020622253418,-1.81704258918762,-58.5087547302246,-5.14865303039551,0.786635100841522,-68.8024139404297,-17.1518478393555,-0.0445847474038601,-69.1725769042969,-16.9990463256836,-0.849950850009918,-68.7741241455078,-17.1635246276855,0.860746502876282,-66.5991668701172,-18.0613555908203,0.0549426898360252,-66.2137298583984,-18.2204627990723,
@@ -583,7 +583,7 @@ Objects:  {
 			}
 		}
 	}
-	Model: 2794733840, "Model::pCube1", "Null" {
+	Model: 1940861104, "Model::pCube1", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -595,7 +595,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794736160, "Model::transform1", "Null" {
+	Model: 1940863424, "Model::transform1", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -607,7 +607,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794738480, "Model::pCube2", "Null" {
+	Model: 1940865744, "Model::pCube2", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -620,7 +620,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794740800, "Model::transform2", "Null" {
+	Model: 975508992, "Model::transform2", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -632,7 +632,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794743120, "Model::pCube3", "Null" {
+	Model: 530266928, "Model::pCube3", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0.704866661117009,0.0236346229488028
@@ -648,7 +648,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794745440, "Model::transform3", "Null" {
+	Model: 530269248, "Model::transform3", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -660,7 +660,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794747760, "Model::pCube4", "Null" {
+	Model: 530271568, "Model::pCube4", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0.704866661117009,0.0236346229488028
@@ -676,7 +676,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794750080, "Model::transform4", "Null" {
+	Model: 530273888, "Model::transform4", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -688,7 +688,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794752400, "Model::pCube5", "Null" {
+	Model: 530276208, "Model::pCube5", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0,0.246457347869873
@@ -703,7 +703,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794754720, "Model::polySurface1", "Null" {
+	Model: 530278528, "Model::polySurface1", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -714,7 +714,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794757040, "Model::transform6", "Null" {
+	Model: 530280848, "Model::transform6", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -726,7 +726,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794759360, "Model::polySurface2", "Null" {
+	Model: 530283168, "Model::polySurface2", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -739,7 +739,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2794761680, "Model::transform7", "Null" {
+	Model: 530285488, "Model::transform7", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -751,7 +751,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2263875184, "Model::transform5", "Null" {
+	Model: 530287808, "Model::transform5", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -763,7 +763,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2263877504, "Model::polySurface2", "Null" {
+	Model: 530290128, "Model::polySurface2", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0,0.211385304763017
@@ -779,7 +779,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2263879824, "Model::transform8", "Null" {
+	Model: 530292448, "Model::transform8", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -791,7 +791,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2263882144, "Model::polySurface3", "Null" {
+	Model: 530294768, "Model::polySurface3", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0,0.211385304763017
@@ -807,7 +807,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2263884464, "Model::transform9", "Null" {
+	Model: 530297088, "Model::transform9", "Null" {
 		Version: 232
 		Properties70:  {
 			P: "RotationActive", "bool", "", "",1
@@ -819,7 +819,7 @@ Objects:  {
 		Shading: Y
 		Culling: "CullingOff"
 	}
-	Model: 2263886784, "Model::polySurface4", "Mesh" {
+	Model: 530299408, "Model::polySurface4", "Mesh" {
 		Version: 232
 		Properties70:  {
 			P: "RotationPivot", "Vector3D", "Vector", "",0,0,-0.0469445250770436
@@ -835,7 +835,7 @@ Objects:  {
 		Shading: T
 		Culling: "CullingOff"
 	}
-	Material: 2452897408, "Material::blinn1", "" {
+	Material: 1927969152, "Material::blinn1", "" {
 		Version: 102
 		ShadingModel: "phong"
 		MultiLayer: 0
@@ -856,37 +856,37 @@ Objects:  {
 			P: "Reflectivity", "double", "Number", "",0
 		}
 	}
-	Video: 2258504352, "Video::file1", "Clip" {
+	Video: 1927971072, "Video::file1", "Clip" {
 		Type: "Clip"
 		Properties70:  {
 			P: "Path", "KString", "XRefUrl", "", "C:/Users/ckneela2/Desktop/Game-Monster/Art Assets/Character Models/Maps/Guy/guyBowTexture.jpg"
-			P: "RelPath", "KString", "XRefUrl", "", "..\..\Maps\Guy\guyBowTexture.jpg"
+			P: "RelPath", "KString", "XRefUrl", "", "..\..\..\..\Game-Monster\Art Assets\Character Models\Maps\Guy\guyBowTexture.jpg"
 		}
 		UseMipMap: 0
 		Filename: "C:/Users/ckneela2/Desktop/Game-Monster/Art Assets/Character Models/Maps/Guy/guyBowTexture.jpg"
-		RelativeFilename: "..\..\Maps\Guy\guyBowTexture.jpg"
+		RelativeFilename: "..\..\..\..\Game-Monster\Art Assets\Character Models\Maps\Guy\guyBowTexture.jpg"
 	}
-	Video: 2258503872, "Video::file2", "Clip" {
+	Video: 1927971552, "Video::file2", "Clip" {
 		Type: "Clip"
 		Properties70:  {
 			P: "Path", "KString", "XRefUrl", "", "C:/Users/ckneela2/Desktop/Game-Monster/Art Assets/Character Models/Maps/Guy/guyBowSpecu'ar.jpg"
-			P: "RelPath", "KString", "XRefUrl", "", "..\..\Maps\Guy\guyBowSpecu'ar.jpg"
+			P: "RelPath", "KString", "XRefUrl", "", "..\..\..\..\Game-Monster\Art Assets\Character Models\Maps\Guy\guyBowSpecu'ar.jpg"
 		}
 		UseMipMap: 0
 		Filename: "C:/Users/ckneela2/Desktop/Game-Monster/Art Assets/Character Models/Maps/Guy/guyBowSpecu'ar.jpg"
-		RelativeFilename: "..\..\Maps\Guy\guyBowSpecu'ar.jpg"
+		RelativeFilename: "..\..\..\..\Game-Monster\Art Assets\Character Models\Maps\Guy\guyBowSpecu'ar.jpg"
 	}
-	Video: 368949744, "Video::file3", "Clip" {
+	Video: 1927972032, "Video::file3", "Clip" {
 		Type: "Clip"
 		Properties70:  {
 			P: "Path", "KString", "XRefUrl", "", "C:/Users/ckneela2/Downloads/guyBowNormal.jpg"
-			P: "RelPath", "KString", "XRefUrl", "", "..\..\..\..\..\..\Downloads\guyBowNormal.jpg"
+			P: "RelPath", "KString", "XRefUrl", "", "..\..\..\..\..\Downloads\guyBowNormal.jpg"
 		}
 		UseMipMap: 0
 		Filename: "C:/Users/ckneela2/Downloads/guyBowNormal.jpg"
-		RelativeFilename: "..\..\..\..\..\..\Downloads\guyBowNormal.jpg"
+		RelativeFilename: "..\..\..\..\..\Downloads\guyBowNormal.jpg"
 	}
-	Texture: 2452896448, "Texture::file1", "" {
+	Texture: 1927969632, "Texture::file1", "" {
 		Type: "TextureVideoClip"
 		Version: 202
 		TextureName: "Texture::file1"
@@ -897,13 +897,13 @@ Objects:  {
 		}
 		Media: "Video::file1"
 		FileName: "C:/Users/ckneela2/Desktop/Game-Monster/Art Assets/Character Models/Maps/Guy/guyBowTexture.jpg"
-		RelativeFilename: "..\..\Maps\Guy\guyBowTexture.jpg"
+		RelativeFilename: "..\..\..\..\Game-Monster\Art Assets\Character Models\Maps\Guy\guyBowTexture.jpg"
 		ModelUVTranslation: 0,0
 		ModelUVScaling: 1,1
 		Texture_Alpha_Source: "None"
 		Cropping: 0,0,0,0
 	}
-	Texture: 2747867104, "Texture::file2", "" {
+	Texture: 1927970112, "Texture::file2", "" {
 		Type: "TextureVideoClip"
 		Version: 202
 		TextureName: "Texture::file2"
@@ -914,13 +914,13 @@ Objects:  {
 		}
 		Media: "Video::file2"
 		FileName: "C:/Users/ckneela2/Desktop/Game-Monster/Art Assets/Character Models/Maps/Guy/guyBowSpecu'ar.jpg"
-		RelativeFilename: "..\..\Maps\Guy\guyBowSpecu'ar.jpg"
+		RelativeFilename: "..\..\..\..\Game-Monster\Art Assets\Character Models\Maps\Guy\guyBowSpecu'ar.jpg"
 		ModelUVTranslation: 0,0
 		ModelUVScaling: 1,1
 		Texture_Alpha_Source: "None"
 		Cropping: 0,0,0,0
 	}
-	Texture: 2747866144, "Texture::file3", "" {
+	Texture: 1927970592, "Texture::file3", "" {
 		Type: "TextureVideoClip"
 		Version: 202
 		TextureName: "Texture::file3"
@@ -931,13 +931,13 @@ Objects:  {
 		}
 		Media: "Video::file3"
 		FileName: "C:/Users/ckneela2/Downloads/guyBowNormal.jpg"
-		RelativeFilename: "..\..\..\..\..\..\Downloads\guyBowNormal.jpg"
+		RelativeFilename: "..\..\..\..\..\Downloads\guyBowNormal.jpg"
 		ModelUVTranslation: 0,0
 		ModelUVScaling: 1,1
 		Texture_Alpha_Source: "None"
 		Cropping: 0,0,0,0
 	}
-	AnimationStack: 2203362208, "AnimStack::Take 001", "" {
+	AnimationStack: 526791680, "AnimStack::Take 001", "" {
 		Properties70:  {
 			P: "LocalStart", "KTime", "Time", "",1924423250
 			P: "LocalStop", "KTime", "Time", "",230930790000
@@ -945,7 +945,7 @@ Objects:  {
 			P: "ReferenceStop", "KTime", "Time", "",230930790000
 		}
 	}
-	AnimationLayer: 2262641168, "AnimLayer::BaseLayer", "" {
+	AnimationLayer: 1297234768, "AnimLayer::BaseLayer", "" {
 	}
 }
 
@@ -955,142 +955,142 @@ Objects:  {
 Connections:  {
 	
 	;Model::pCube1, Model::RootNode
-	C: "OO",2794733840,0
+	C: "OO",1940861104,0
 	
 	;Model::pCube2, Model::RootNode
-	C: "OO",2794738480,0
+	C: "OO",1940865744,0
 	
 	;Model::pCube3, Model::RootNode
-	C: "OO",2794743120,0
+	C: "OO",530266928,0
 	
 	;Model::pCube4, Model::RootNode
-	C: "OO",2794747760,0
+	C: "OO",530271568,0
 	
 	;Model::pCube5, Model::RootNode
-	C: "OO",2794752400,0
+	C: "OO",530276208,0
 	
 	;Model::polySurface2, Model::RootNode
-	C: "OO",2263877504,0
+	C: "OO",530290128,0
 	
 	;Model::polySurface3, Model::RootNode
-	C: "OO",2263882144,0
+	C: "OO",530294768,0
 	
 	;Model::polySurface4, Model::RootNode
-	C: "OO",2263886784,0
+	C: "OO",530299408,0
 	
 	;AnimLayer::BaseLayer, AnimStack::Take 001
-	C: "OO",2262641168,2203362208
+	C: "OO",1297234768,526791680
 	
 	;NodeAttribute::, Model::pCube1
-	C: "OO",2251067680,2794733840
+	C: "OO",1295009488,1940861104
 	
 	;Model::transform1, Model::pCube1
-	C: "OO",2794736160,2794733840
+	C: "OO",1940863424,1940861104
 	
 	;NodeAttribute::, Model::transform1
-	C: "OO",2251074896,2794736160
+	C: "OO",1295015648,1940863424
 	
 	;NodeAttribute::, Model::pCube2
-	C: "OO",2251074544,2794738480
+	C: "OO",1295010720,1940865744
 	
 	;Model::transform2, Model::pCube2
-	C: "OO",2794740800,2794738480
+	C: "OO",975508992,1940865744
 	
 	;NodeAttribute::, Model::transform2
-	C: "OO",2741730032,2794740800
+	C: "OO",1295014768,975508992
 	
 	;NodeAttribute::, Model::pCube3
-	C: "OO",2741718944,2794743120
+	C: "OO",1295011424,530266928
 	
 	;Model::transform3, Model::pCube3
-	C: "OO",2794745440,2794743120
+	C: "OO",530269248,530266928
 	
 	;NodeAttribute::, Model::transform3
-	C: "OO",2741710848,2794745440
+	C: "OO",1295010896,530269248
 	
 	;NodeAttribute::, Model::pCube4
-	C: "OO",2741706976,2794747760
+	C: "OO",1295010544,530271568
 	
 	;Model::transform4, Model::pCube4
-	C: "OO",2794750080,2794747760
+	C: "OO",530273888,530271568
 	
 	;NodeAttribute::, Model::transform4
-	C: "OO",2741718768,2794750080
+	C: "OO",1295010368,530273888
 	
 	;NodeAttribute::, Model::pCube5
-	C: "OO",2741728448,2794752400
+	C: "OO",1295011248,530276208
 	
 	;Model::polySurface1, Model::pCube5
-	C: "OO",2794754720,2794752400
+	C: "OO",530278528,530276208
 	
 	;Model::polySurface2, Model::pCube5
-	C: "OO",2794759360,2794752400
+	C: "OO",530283168,530276208
 	
 	;Model::transform5, Model::pCube5
-	C: "OO",2263875184,2794752400
+	C: "OO",530287808,530276208
 	
 	;NodeAttribute::, Model::polySurface1
-	C: "OO",2741722640,2794754720
+	C: "OO",1295011072,530278528
 	
 	;Model::transform6, Model::polySurface1
-	C: "OO",2794757040,2794754720
+	C: "OO",530280848,530278528
 	
 	;NodeAttribute::, Model::transform6
-	C: "OO",2741719824,2794757040
+	C: "OO",1295010192,530280848
 	
 	;NodeAttribute::, Model::polySurface2
-	C: "OO",2741729504,2794759360
+	C: "OO",1295010016,530283168
 	
 	;Model::transform7, Model::polySurface2
-	C: "OO",2794761680,2794759360
+	C: "OO",530285488,530283168
 	
 	;NodeAttribute::, Model::transform7
-	C: "OO",2741729680,2794761680
+	C: "OO",1295008784,530285488
 	
 	;NodeAttribute::, Model::transform5
-	C: "OO",2741706624,2263875184
+	C: "OO",1295008608,530287808
 	
 	;NodeAttribute::, Model::polySurface2
-	C: "OO",2741707504,2263877504
+	C: "OO",1295009136,530290128
 	
 	;Model::transform8, Model::polySurface2
-	C: "OO",2263879824,2263877504
+	C: "OO",530292448,530290128
 	
 	;NodeAttribute::, Model::transform8
-	C: "OO",2741713664,2263879824
+	C: "OO",1295008256,530292448
 	
 	;NodeAttribute::, Model::polySurface3
-	C: "OO",2741719648,2263882144
+	C: "OO",1295008080,530294768
 	
 	;Model::transform9, Model::polySurface3
-	C: "OO",2263884464,2263882144
+	C: "OO",530297088,530294768
 	
 	;NodeAttribute::, Model::transform9
-	C: "OO",2741727568,2263884464
+	C: "OO",1295008432,530297088
 	
 	;Texture::file1, Material::blinn1
-	C: "OP",2452896448,2452897408, "DiffuseColor"
+	C: "OP",1927969632,1927969152, "DiffuseColor"
 	
 	;Texture::file3, Material::blinn1
-	C: "OP",2747866144,2452897408, "Bump"
+	C: "OP",1927970592,1927969152, "Bump"
 	
 	;Texture::file2, Material::blinn1
-	C: "OP",2747867104,2452897408, "SpecularColor"
+	C: "OP",1927970112,1927969152, "SpecularColor"
 	
 	;Video::file1, Texture::file1
-	C: "OO",2258504352,2452896448
+	C: "OO",1927971072,1927969632
 	
 	;Video::file2, Texture::file2
-	C: "OO",2258503872,2747867104
+	C: "OO",1927971552,1927970112
 	
 	;Video::file3, Texture::file3
-	C: "OO",368949744,2747866144
+	C: "OO",1927972032,1927970592
 	
 	;Geometry::, Model::polySurface4
-	C: "OO",2247888768,2263886784
+	C: "OO",973320768,530299408
 	
 	;Material::blinn1, Model::polySurface4
-	C: "OO",2452897408,2263886784
+	C: "OO",1927969152,530299408
 }
 ;Takes section
 ;----------------------------------------------------
